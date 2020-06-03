@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/rdargali/quit-it/issues"
   },
-  "homepage": "https://github.com/rdargali/quit-it#readme"
+  "homepage": "https://github.com/rdargali/quit-it#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "mustache-express": "^1.3.0"
+  }
 }
